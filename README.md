@@ -3,6 +3,8 @@ Notes written for the AWS Certified Developer - Associate (DVA-C01) certificatio
 
 All notes are also published on [my HackMD profile](https://hackmd.io/@KarWei)  
 
+Aside from theory on each of these services, I have also included console screenshots to promote better understanding in not just the underlying services' features and differences but also how they look and are implemented in their respective consoles/CLI  
+
 ## Overview  
 - IAM and EC2
 - ELB and ASG
